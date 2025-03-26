@@ -4,7 +4,7 @@
 #
 # Authors:
 #   - Max van Wijk
-#   - ...
+#   - Charalambos Kypridemou
 
 
 # Imports used for the code
